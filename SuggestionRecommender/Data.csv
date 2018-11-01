@@ -1,0 +1,10 @@
+DATA,ATB001,ATE002,ATH003,ATHP004,ATC005,ATCP006
+Kidney Stones,0,1,0,0,1,1
+Gall Stones,0,1,0,0,1,1
+Thyroid Disease,0,1,0,1,0,0
+Liver Disease,0,1,1,1,1,1
+Coronary Artery Disease,0,0,1,1,0,0
+Myocardial Infarction,0,1,1,0,0,1
+Cancer,0,0,0,0,1,1
+Stroke,0,0,0,1,1,1
+Seizure,0,0,0,0,1,0
